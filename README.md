@@ -1,4 +1,4 @@
-Hi 👋 My name is jose
+Hola 👋 mi nombre es José Crespo
 =====================
 
 Ingeniero en Sistemas Computacionales | Backend
