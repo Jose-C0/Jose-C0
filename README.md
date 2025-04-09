@@ -26,6 +26,6 @@ Soy Ingeniero en Sistemas Computacionales, tengo conocimiento en ASP.NET Core, H
 <a href="https://github.com/Jose-C0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-C0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jose-C0)](https://git.io/streak-stats) 
 
 
