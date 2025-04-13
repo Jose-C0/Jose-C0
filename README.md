@@ -1,9 +1,5 @@
-¡Hola! 👋 Mi nombre es José Crespo
-==================================
-
-Ingeniero en Sistemas Computacionales | Desarrollo Backend
-----------------------------------------------------------
-
+## ¡Hola! 👋 Mi nombre es José Crespo  
+ 
 Soy Ingeniero en Sistemas Computacionales, tengo conocimiento en ASP.NET Core, HTML5, CSS3, JavaScript, C#, Python, SQL, GIT y GitHub.
 
 * 🧠  I'm learning Docker, MongoDB
